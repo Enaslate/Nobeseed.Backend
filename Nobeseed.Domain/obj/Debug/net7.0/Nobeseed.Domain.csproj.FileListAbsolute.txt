@@ -1,0 +1,11 @@
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\bin\Debug\net7.0\Nobeseed.Domain.deps.json
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\bin\Debug\net7.0\Nobeseed.Domain.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\bin\Debug\net7.0\Nobeseed.Domain.pdb
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.AssemblyInfo.cs
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\refint\Nobeseed.Domain.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\Nobeseed.Domain.pdb
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Domain\obj\Debug\net7.0\ref\Nobeseed.Domain.dll
