@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Nobeseed.Application\Nobeseed.Application.csproj" />
     <ProjectReference Include="..\Nobeseed.Domain\Nobeseed.Domain.csproj" />
     <ProjectReference Include="..\Nobeseed.Persistence\Nobeseed.Persistence.csproj" />
   </ItemGroup>

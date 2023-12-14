@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rJf6vPevNiEzWoeYUHF3UDIiLIYbUMM2HxdMTSslz7t9qXxBxcy2GDmqzwZt59zUrruUFvajm0DCkeWxWtNXAg==",
+  "dgSpecHash": "gpP65h0+gIsuAYxiOgYEtsn0lwQD0l6lZMXRJegi2mBRb9/VoE+k25L4eLB7rxoFCh4eGzMikJC0m/RnlRBoxw==",
   "success": true,
   "projectFilePath": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Nobeseed.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\shen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\shen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\shen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\shen\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

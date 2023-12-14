@@ -13,3 +13,5 @@ D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\obj\Debug\net7.0\Nobes
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\obj\Debug\net7.0\refint\Nobeseed.Persistence.dll
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\obj\Debug\net7.0\Nobeseed.Persistence.pdb
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\obj\Debug\net7.0\ref\Nobeseed.Persistence.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\bin\Debug\net7.0\Nobeseed.Application.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Persistence\bin\Debug\net7.0\Nobeseed.Application.pdb

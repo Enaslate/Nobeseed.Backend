@@ -10,6 +10,7 @@ namespace Nobeseed.Persistence.EntityTypeConfigurations
         {
             builder.HasKey(book => book.Id);
             builder.HasIndex(book => book.Id).IsUnique();
+            builder.Property(book => book.UserId);
             builder.Property(book => book.Title).HasMaxLength(255);
         }
     }
