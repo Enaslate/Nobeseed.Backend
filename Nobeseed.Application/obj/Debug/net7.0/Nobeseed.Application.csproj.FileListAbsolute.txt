@@ -1,0 +1,15 @@
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Application.deps.json
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Application.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Application.pdb
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.AssemblyInfo.cs
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\refint\Nobeseed.Application.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.pdb
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\ref\Nobeseed.Application.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Domain.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Domain.pdb
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.csproj.CopyComplete

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nobeseed.WebApi.props" />
+</Project>
