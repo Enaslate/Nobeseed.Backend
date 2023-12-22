@@ -9,13 +9,18 @@ namespace Nobeseed.Persistence
     {
         public DbSet<Book> Books { get; private set; }
         public DbSet<Chapter> Chapters { get; private set; }
+        public DbSet<Genre> Genres { get; private set; }
+        public DbSet<Tag> Tags { get; private set; }
 
         public NobeseedDbContext(DbContextOptions<NobeseedDbContext> options) 
             : base(options) 
         { 
             Books = Set<Book>();
             Chapters = Set<Chapter>();
-            //Database.EnsureDeleted();
+            Genres = Set<Genre>();
+            Tags = Set<Tag>();
+
+            Database.EnsureDeleted();
             Database.EnsureCreated();
         }
 
@@ -23,6 +28,7 @@ namespace Nobeseed.Persistence
         {
             builder.ApplyConfiguration(new BookConfiguration());
             builder.ApplyConfiguration(new ChapterConfiguration());
+            builder.ApplyConfiguration(new RatingConfiguration());
             base.OnModelCreating(builder);
 
             builder.Entity<Book>().HasData(

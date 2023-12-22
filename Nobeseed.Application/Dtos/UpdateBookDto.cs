@@ -1,10 +1,10 @@
-﻿using Nobeseed.Application.Interfaces;
-using Nobeseed.Domain.Enum;
+﻿using Nobeseed.Domain.Enum;
 
 namespace Nobeseed.Application.Dtos
 {
-    public class BookDto
+    public class UpdateBookDto
     {
+        public Guid Id { get; set; }
         public string Title { get; set; } = null!;
         public string? Description { get; set; }
         public string? Image { get; set; }
@@ -12,7 +12,5 @@ namespace Nobeseed.Application.Dtos
         public BookStatus Status { get; set; }
         public BookType Type { get; set; }
         public Country Country { get; set; }
-
-
     }
 }

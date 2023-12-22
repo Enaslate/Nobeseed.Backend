@@ -26,24 +26,50 @@ namespace Nobeseed.Persistence.Repositories
             return book;
         }
 
-        public async Task Create(BookDto entity)
+        public async Task<bool> Create(CreateBookDto entity)
         {
             var book = _mapper.Map<Book>(entity);
             await _context.Books.AddAsync(book);
             await SaveAsync();
+
+            return true;
         }
 
-        public async Task Update(Book entity)
+        public async Task<bool> Update(UpdateBookDto entity)
         {
-            _context.Books.Attach(entity);
-            _context.Books.Entry(entity).State = EntityState.Modified;
+            var book = await _context.Books.FirstOrDefaultAsync(x => x.Id == entity.Id);
+
+            if (book == null)
+            {
+                throw new ArgumentNullException(nameof(entity));
+            }
+
+            book.SetTitle(entity.Title);
+            book.SetDescription(entity.Description);
+            book.SetAuthor(entity.Author);
+            book.SetStatus(entity.Status);
+            book.SetType(entity.Type);
+            book.SetCountry(entity.Country);
+            
+            _context.Books.Attach(book);
+            _context.Entry(book).State = EntityState.Modified;
             await SaveAsync();
+
+            return true;
         }
 
-        public async Task Delete(Book book)
+        public async Task<bool> Delete(Guid id)
         {
+            var book = await _context.Books.FirstOrDefaultAsync(x => x.Id == id);
+            if (book == null)
+            {
+                throw new ArgumentException(nameof(book));
+            }
+
             _context.Books.Remove(book);
             await SaveAsync();
+
+            return true;
         }
 
         public async Task SaveAsync()

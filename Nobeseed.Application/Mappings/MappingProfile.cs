@@ -8,7 +8,8 @@ namespace Nobeseed.Application.Mappings
     {
         public MappingProfile()
         {
-            CreateMap<BookDto, Book>();
+            CreateMap<CreateBookDto, Book>();
+            CreateMap<UpdateBookDto, Book>();
         }
     }
 }

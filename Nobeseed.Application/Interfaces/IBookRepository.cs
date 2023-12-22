@@ -4,7 +4,7 @@ using Nobeseed.Domain.Entities;
 
 namespace Nobeseed.Domain.Interfaces
 {
-    public interface IBookRepository : IRepository<Book, BookDto>
+    public interface IBookRepository : IRepository<Book, CreateBookDto, UpdateBookDto>
     {
 
     }
