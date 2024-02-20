@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Nobeseed.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\nobeseed.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\nobeseed.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\nobeseed.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\nobeseed.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|solutionrelative:nobeseed.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|solutionrelative:nobeseed.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\entitytypeconfigurations\\ratingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\entitytypeconfigurations\\ratingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\entitytypeconfigurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\entitytypeconfigurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\entitytypeconfigurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\entitytypeconfigurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.persistence\\nobeseeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC4732B-942A-47C4-9648-870030ED6684}|Nobeseed.Persistence\\Nobeseed.Persistence.csproj|solutionrelative:nobeseed.persistence\\nobeseeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\nobeseed.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\nobeseed.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.webapi\\nobeseed.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|solutionrelative:nobeseed.webapi\\nobeseed.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41CF437B-9CE2-4F2C-9529-2192268564F7}|Nobeseed.WebApi\\Nobeseed.WebApi.csproj|solutionrelative:nobeseed.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\enum\\agerating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\enum\\agerating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\enum\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\enum\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.domain\\enum\\bookformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABACE4-F276-442C-9C17-6092DCE7A3E1}|Nobeseed.Domain\\Nobeseed.Domain.csproj|solutionrelative:nobeseed.domain\\enum\\bookformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|d:\\documents\\github\\nobeseed.backend\\nobeseed.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465AEA3A-497F-4CB7-8F8E-A94C341C504B}|Nobeseed.Application\\Nobeseed.Application.csproj|solutionrelative:nobeseed.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T00:44:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Services\\BookService.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Services\\BookService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T01:52:37.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Nobeseed.Persistence\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T02:10:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Nobeseed.WebApi\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Nobeseed.WebApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T15:45:13.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Entities\\Book.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T03:21:55.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nobeseed.Application.csproj",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Nobeseed.Application.csproj",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Nobeseed.Application.csproj",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Nobeseed.Application.csproj",
+              "RelativeToolTip": "Nobeseed.Application\\Nobeseed.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-12T00:15:41.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nobeseed.Persistence.csproj",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\Nobeseed.Persistence.csproj",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\Nobeseed.Persistence.csproj",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\Nobeseed.Persistence.csproj",
+              "RelativeToolTip": "Nobeseed.Persistence\\Nobeseed.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T21:40:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T02:10:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Interfaces\\IBookService.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T01:53:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Nobeseed.WebApi\\Program.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Program.cs",
+              "RelativeToolTip": "Nobeseed.WebApi\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T21:32:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RatingConfiguration.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\RatingConfiguration.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\EntityTypeConfigurations\\RatingConfiguration.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\RatingConfiguration.cs",
+              "RelativeToolTip": "Nobeseed.Persistence\\EntityTypeConfigurations\\RatingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T05:56:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\EntityTypeConfigurations\\GenreConfiguration.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\GenreConfiguration.cs",
+              "RelativeToolTip": "Nobeseed.Persistence\\EntityTypeConfigurations\\GenreConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T05:52:14.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\EntityTypeConfigurations\\BookConfiguration.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\EntityTypeConfigurations\\BookConfiguration.cs",
+              "RelativeToolTip": "Nobeseed.Persistence\\EntityTypeConfigurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T05:30:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NobeseedDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\NobeseedDbContext.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Persistence\\NobeseedDbContext.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Persistence\\NobeseedDbContext.cs",
+              "RelativeToolTip": "Nobeseed.Persistence\\NobeseedDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T05:48:37.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Dtos\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Dtos\\UpdateBookDto.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Dtos\\UpdateBookDto.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Dtos\\UpdateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T00:37:54.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Nobeseed.Domain.csproj",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Nobeseed.Domain.csproj",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Nobeseed.Domain.csproj",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Nobeseed.Domain.csproj",
+              "RelativeToolTip": "Nobeseed.Domain\\Nobeseed.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T19:17:32.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nobeseed.WebApi.csproj",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Nobeseed.WebApi.csproj",
+              "RelativeDocumentMoniker": "Nobeseed.WebApi\\Nobeseed.WebApi.csproj",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\Nobeseed.WebApi.csproj",
+              "RelativeToolTip": "Nobeseed.WebApi\\Nobeseed.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T22:52:02.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Nobeseed.WebApi\\appsettings.json",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.WebApi\\appsettings.json",
+              "RelativeToolTip": "Nobeseed.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-10T22:48:05.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Entities\\Rating.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Rating.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Entities\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T04:05:04.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Dtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Dtos\\CreateBookDto.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Dtos\\CreateBookDto.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Dtos\\CreateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T00:37:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Entities\\Genre.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T03:34:41.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Entities\\Tag.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Tag.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Entities\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T03:34:59.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookFormat.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\BookFormat.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Enum\\BookFormat.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\BookFormat.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Enum\\BookFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T03:55:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AgeRating.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\AgeRating.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Enum\\AgeRating.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\AgeRating.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Enum\\AgeRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T04:00:21.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T04:20:25.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookType.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\BookType.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Domain\\Enum\\BookType.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Domain\\Enum\\BookType.cs",
+              "RelativeToolTip": "Nobeseed.Domain\\Enum\\BookType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T03:22:22.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Nobeseed.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.Backend\\Nobeseed.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Nobeseed.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T00:40:34.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

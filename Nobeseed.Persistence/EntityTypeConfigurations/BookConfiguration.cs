@@ -12,6 +12,8 @@ namespace Nobeseed.Persistence.EntityTypeConfigurations
             builder.HasIndex(book => book.Id).IsUnique();
             builder.Property(book => book.UserId);
             builder.Property(book => book.Title).HasMaxLength(255);
+            builder.Property(book => book.Description).HasMaxLength(255);
+            builder.Property(book => book.Image).HasMaxLength(255);
         }
     }
 }

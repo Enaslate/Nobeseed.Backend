@@ -20,7 +20,6 @@ namespace Nobeseed.Persistence
             Genres = Set<Genre>();
             Tags = Set<Tag>();
 
-            Database.EnsureDeleted();
             Database.EnsureCreated();
         }
 

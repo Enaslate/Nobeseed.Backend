@@ -12,4 +12,5 @@ D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\ref\N
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Domain.dll
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\bin\Debug\net7.0\Nobeseed.Domain.pdb
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.csproj.AssemblyReference.cache
-D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.csproj.CopyComplete
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.Application.sourcelink.json
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.Application\obj\Debug\net7.0\Nobeseed.3F1F9361.Up2Date

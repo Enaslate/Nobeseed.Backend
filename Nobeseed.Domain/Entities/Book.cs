@@ -8,7 +8,7 @@ namespace Nobeseed.Domain.Entities
         public Guid UserId { get; }
         public string Title { get; private set; } = null!;
         public string? Description { get; private set; }
-        public string? Image {  get; private set; }
+        public string? Image {  get; set; }
         public string? Author { get; private set; }
         public DateTime PublicationYear { get; private set; }
         public DateTime CreationDate { get; private set; }

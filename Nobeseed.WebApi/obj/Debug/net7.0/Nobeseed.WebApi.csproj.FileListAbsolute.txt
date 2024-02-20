@@ -21,7 +21,6 @@ D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\staticweba
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\staticwebassets.build.json
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\staticwebassets.development.json
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\scopedcss\bundle\Nobeseed.WebApi.styles.css
-D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\Nobeseed.WebApi.csproj.CopyComplete
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\Nobeseed.WebApi.dll
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\refint\Nobeseed.WebApi.dll
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\Nobeseed.WebApi.pdb
@@ -71,3 +70,5 @@ D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\bin\Debug\net7.0\Nobeseed.A
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\bin\Debug\net7.0\Nobeseed.Application.pdb
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\bin\Debug\net7.0\AutoMapper.dll
 D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\Nobeseed.WebApi.sourcelink.json
+D:\Documents\GitHub\Nobeseed.Backend\Nobeseed.WebApi\obj\Debug\net7.0\Nobeseed.1AEAB29E.Up2Date
